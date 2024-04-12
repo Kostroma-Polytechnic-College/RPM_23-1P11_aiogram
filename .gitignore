@@ -3,7 +3,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# чудестный комментарий
 # C extensions
 *.so
 
